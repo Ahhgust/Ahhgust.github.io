@@ -4,3 +4,5 @@ show_downloads: true
 google_analytics:
 remote_theme: jekyll-theme-time-machine
 
+
+theme: jekyll-theme-dinky
