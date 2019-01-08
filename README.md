@@ -1,30 +1,8 @@
 ## Welcome to my web page!
 
+### About me
 
-```markdown
-Syntax highlighted code block
+I am a bioinformaticist and geneticist in the research group of [Dr. Bruce Budowle] (https://www.unthsc.edu/graduate-school-of-biomedical-sciences/molecular-and-medical-genetics/laboratory-faculty-and-staff/) at UNTHSC. My training is both in [population genetics] (https://uacc.arizona.edu/profile/michael-hammer) and in [computation] (https://www2.cs.arizona.edu/~kece/)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ahhgust/Ahhgust.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
