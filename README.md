@@ -1,5 +1,9 @@
 ## Welcome to August Woerner's web page!
 
+# Seeking well-qualified applicants
+
+I am *always* looking for well-qualified applicants for positions at all skill levels (bachelors degree and higher). If you are interested in forensic genetics and/or bioinformatics, shoot me an email at August DOT Woerner AT unthsc DOT edu
+
 
 ### About me as a scholar
 
@@ -13,5 +17,7 @@ Most problems in forensic genetics boil down to the simple problem of *whose DNA
 2. Targetting DNA products (more stable protein markers)
 3. Assessing whole mitochondrial genomes (higher abundance)
 4. Using unique molecular identifiers (absolute quantitation)
+
+
 
 
