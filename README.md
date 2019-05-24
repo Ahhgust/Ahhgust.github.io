@@ -22,7 +22,9 @@ Most problems in forensic genetics boil down to the simple problem of *whose DNA
 
 Programs currently available:
 
-[IMGC] (http://ec2-18-218-220-205.us-east-2.compute.amazonaws.com:3838/Rimgc/) 
+[IMGC](http://ec2-18-218-220-205.us-east-2.compute.amazonaws.com:3838/Rimgc/) 
+
+Str8Rzr v4 (Coming soon!)
 
 
 
